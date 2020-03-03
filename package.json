@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/humberto24/Project-3.git"
+    "url": "git+https://github.com/sahernandezr/deploy_mern.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/humberto24/Project-3/issues"
+    "url": "https://github.com/sahernandezr/deploy_mern/issues"
   },
-  "homepage": "https://github.com/humberto24/Project-3#readme",
+  "homepage": "https://github.com/sahernandezr/deploy_mern#readme",
   "dependencies": {
     "concurrently": "^5.1.0",
     "cors": "^2.8.5",
