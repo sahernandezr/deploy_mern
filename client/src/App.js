@@ -5,6 +5,7 @@ import Nav from "./components/Nav";
 import Header from "./components/Header";
 import Menu from "./components/Menu";
 import Wrapper from "./components/Wrapper";
+import Footer from "./components/Footer";
 //import Categories from "./components/Categories";
 //import categories from "./categories.json";
 import Home from './pages/Home';
@@ -39,6 +40,7 @@ class App extends Component {
               {/* <Route exact path="/users/register" component={Registeruser} /> */}
 
             </Switch>
+            <Footer/>
           </div>
         </Wrapper>
       </Router>

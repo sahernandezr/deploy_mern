@@ -1,7 +1,6 @@
-.nav {
+.footer {
     background-color: #096ea2 !important;
     /* background-color: #43B047; */
-    height: 50px;
     font-size: 2rem;
     border: 0;
     padding: 0;
@@ -10,6 +9,10 @@
 
 a {
     color: #000000;
+}
+
+p {
+    font-size: 16px;
 }
 
 .navbar-brand {

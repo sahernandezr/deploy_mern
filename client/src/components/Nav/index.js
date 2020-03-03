@@ -7,10 +7,13 @@ import UserRegister from "../RegisterUser/index";
 function Nav(props) {
     return (
       <div> 
-        <ul className="nav">
+        <ul className="nav navbar-dark bg-primary">
               <li className="navbar-brand" href="/">Get Boost!</li>
+                  
                   <UserLogin></UserLogin>
                   <UserRegister></UserRegister>
+                  
+              
          </ul>
       </div>
     )

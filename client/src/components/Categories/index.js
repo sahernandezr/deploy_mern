@@ -10,7 +10,7 @@ function Categories(props) {
                 <div className="card-body">
                     
                     {/* <p className="card-text">{props.description}</p> */}
-                    <a href={`/coaches${props.url}`} className="btn btn-primary"><h3 className="card-title">{props.category}</h3></a>
+                    <a href={`/coaches${props.url}`} className="btn btn-primary btn-block"><h3 className="card-title">{props.category}</h3></a>
                 </div>
 
             </div>

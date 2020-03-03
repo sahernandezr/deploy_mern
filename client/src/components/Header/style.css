@@ -1,0 +1,12 @@
+.jumbotron {
+    background-color: transparent;
+    text-align: center;
+    border: 0;
+    padding: 5 0 0 0 !important;
+    margin: auto;
+
+}
+
+h1 {
+    color: #ff8a04;
+}

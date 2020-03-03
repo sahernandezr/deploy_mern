@@ -29,6 +29,12 @@
     margin: 0 auto;
 }
 
+.btn-block {
+    border: auto;
+    padding: 0 !important;
+    margin: 0;
+}
+
 /* .flex-grid-thirds {
     /* width: 1024px; */
     /* display: flex;
